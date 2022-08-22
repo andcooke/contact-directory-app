@@ -3,7 +3,7 @@ import { openDB } from 'idb';
 
 // TODO: Complete the initDb() function below:
 const initdb = async () => {
-
+  openDB('')
 };
 
 
